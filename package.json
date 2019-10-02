@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Measures how similar two strings are in terms of the number of common bigrams using Sørensen–Dice coefficient",
   "engines": {
-    "node": ">= 4.0.0"
+    "node": ">= 6.0.0"
   },
   "main": "index.js",
   "scripts": {
